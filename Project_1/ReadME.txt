@@ -1,11 +1,5 @@
 POOJA VOLADODDI
 
-USC ID- 6571916065
-voladodd@usc.edu
-EE569 HW#1 
-
-Submission Date - September 22, 2013
-
 
 1)  Programming Platform Used
 -- All source code was created in MATLAB R2011b
