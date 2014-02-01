@@ -10,7 +10,7 @@ POOJA VOLADODDI
 
 3) How to run the source codes
 
---The ZIP folder 'EE569_HW1_6571916065_code.zip' contains each problem in a separate folder like below
+--The folder 'Project_1' contains each problem in a separate folder like below
  Problem1a_1c
  Problem2a
  Problem2b ... and so on.
